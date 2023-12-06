@@ -23,7 +23,7 @@ Make it a Node.js project by giving the following command:<br>
 npm init -y<br>
 Install types for Node.js by this command - npm i @types/node -D<br>
 <br>
-# Functionalities
+
 
 # Project Structure
 
