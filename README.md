@@ -1,6 +1,6 @@
 # Calculator-Project-1
 
-# Shopping Simulation Program
+# Calculator Simulation Program
 
 ## Overview
 
@@ -24,20 +24,6 @@ npm init -y<br>
 Install types for Node.js by this command - npm i @types/node -D<br>
 <br>
 # Functionalities
-## Scenario 1 - Buying Groceries
-The user can choose between buying fruits or vegetables.<br>
-The program suggests different items available and their prices.<br>
-The total bill is displayed based on the user's selection.<br>
-## Scenario 2 - Checking Discounts
-A discount is applied based on the total bill amount:<br>
-If the bill amount is above $10, a 10% discount is applied.<br>
-The discounted total is displayed.<br>
-## Scenario 3 - Checkout Process
-Simulates the checkout process with nested loops:<br>
-Asks the user for the preferred payment method.<br>
-Displays a confirmation message based on the payment method chosen.<br>
-Customization<br>
-Feel free to customize the program based on your specific requirements. You can modify the items, prices, discount logic, or payment methods as needed.<br>
 
 # Project Structure
 
